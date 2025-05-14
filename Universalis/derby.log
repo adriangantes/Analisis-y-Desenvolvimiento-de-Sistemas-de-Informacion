@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 14 19:09:03 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0196-cfc5-69bb-0000010adde0 
+on database directory C:\Users\adria\Downloads\Universalis\Universalis\sampleDb with class loader org.codehaus.mojo.exec.URLClassLoaderBuilder$ExecJavaClassLoader@336206d8 
+Loaded from file:/C:/Users/adria/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23.0.2+7-58
+user.dir=C:\Users\adria\Downloads\Universalis\Universalis
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
